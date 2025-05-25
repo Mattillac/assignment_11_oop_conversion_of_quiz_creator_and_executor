@@ -18,7 +18,7 @@ class QuizCreator:
         self.file.write("Question: " + question + "\n")
         self.file.write("Answers and Correct Answer: " + answer_sheet + "\n\n")
 
-def run(self):
+    def run(self):
         self.get_quiz_name()
         while True:
             self.add_question()
