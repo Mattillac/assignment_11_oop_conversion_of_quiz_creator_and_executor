@@ -27,7 +27,7 @@ class QuizLoader:
                         if correct_answer not in all_answers:
                             all_answers.append(correct_answer)
 
-                        from question import Question
+                        from quiz_questions import Question
                         quiz.append(Question(question, all_answers, correct_answer))
                 else:
                     looper += 1
