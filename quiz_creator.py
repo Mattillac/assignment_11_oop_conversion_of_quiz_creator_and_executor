@@ -31,6 +31,6 @@ class QuizCreator:
                 print("SHAME ON YOU WHY YOU DIDN'T FOLLOW THE INSTRUCTIONS")
                 break
         self.file.close()
-            print("File is saved! Thank you for using this program.")
+        print("File is saved! Thank you for using this program.")
 
 #and create a different file for the main function
