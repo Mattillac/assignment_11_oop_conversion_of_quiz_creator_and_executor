@@ -1,0 +1,10 @@
+BRIAN
+
+Question: who is tastier?
+Answers and Correct Answer(): cupcake, chicken, cake, brownies (chicken)
+
+Question: who is the tallest?
+Answers and Correct Answer(): eiffel tower, twin towers, mt. mayon, pup (mt. mayon)
+
+Question: letters
+Answers and Correct Answer(): a, b, c, d (a)

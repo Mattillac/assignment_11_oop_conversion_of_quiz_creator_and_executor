@@ -16,7 +16,8 @@ class QuizCreator:
         question = input("Enter a question: ")
         answer_sheet = input("Enter the answer sheet like this (a, b, c, d (a) ) and enclose with parenthesis the correct answer!: ")
         self.file.write("Question: " + question + "\n")
-        self.file.write("Answers and Correct Answer: " + answer_sheet + "\n\n")
+        self.file.write("Answers and Correct Answer""(): " + answer_sheet + "\n\n")
+
 
     def run(self):
         self.get_quiz_name()

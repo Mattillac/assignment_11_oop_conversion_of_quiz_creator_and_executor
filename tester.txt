@@ -1,0 +1,6 @@
+Question: who loves chicken?
+Answers and Correct Answer(): john, ryu, joe, mitch (mitch)
+
+Question: what signature move does naruto use?
+Answers and Correct Answer(): rasengan, shadowclone jutsu, chidori, gomu gomu (gomu gomu)
+
